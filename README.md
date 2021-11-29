@@ -23,3 +23,4 @@
 - [Honeypots in Ethereum And How To Avoid Them](https://youtu.be/DDn5mksOUCc)
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 - [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
+- [Capture the Ether](https://capturetheether.com/challenges/)
