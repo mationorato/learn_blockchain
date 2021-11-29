@@ -13,6 +13,7 @@
 - [Solidity by Example](https://solidity-by-example.org/)
 - [Peter's Solidity Recruitment Test](https://youtu.be/80fA7foSi7c)
 - [Ethereum VM and Consensus by Fredrik Haga](https://youtu.be/Wq8kryb2Ats)
+- [Ethereum Virtual Machine](https://youtu.be/BsDq2mzC5tk)
 
 ## Security
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
