@@ -6,6 +6,7 @@
 - [Ethereum paper](https://ethereum.org/en/whitepaper/)
 - [Understanding the Ethereum Blockchain Protocol - Vitalik Buterin](https://youtu.be/gjwr-7PgpN8)
 
+
 # Ethereum
 
 - [Crypto Zombies](https://cryptozombies.io/)
@@ -21,3 +22,4 @@
 - [Honeypot](https://github.com/scaffold-eth/scaffold-eth/tree/honeypot-example)
 - [Honeypots in Ethereum And How To Avoid Them](https://youtu.be/DDn5mksOUCc)
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+- [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
