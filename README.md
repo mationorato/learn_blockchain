@@ -24,3 +24,7 @@
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 - [Solidity Security: Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
 - [Capture the Ether](https://capturetheether.com/challenges/)
+
+# MEV
+
+- [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234)
