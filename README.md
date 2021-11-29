@@ -19,3 +19,4 @@
 - [BuidlGuidl is a curated group of Ethereum builders](https://buidlguidl.com/)
 - [Honeypot](https://github.com/scaffold-eth/scaffold-eth/tree/honeypot-example)
 - [Honeypots in Ethereum And How To Avoid Them](https://youtu.be/DDn5mksOUCc)
+- [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
