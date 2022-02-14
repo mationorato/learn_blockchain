@@ -34,7 +34,7 @@
 # Learn Zero-knowledge
 
 ## Basics
-- [Intro to zero knowledge proofs](https://www.youtube.com/watch?v=3NL0ThdvWMU)
+- [Intro to zero knowledge proofs](https://www.youtube.com/watch?v=HUs1bH85X9I)
 
 ## R1CS/Circuits
 - [Circom tutorial](https://github.com/therealyingtong/roll_up_circom_tutorial)
@@ -42,9 +42,15 @@
 
 ## zk-SNARKs
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
-- [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
+
+### advance topics:
+- [Vitalik's introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
 - [Vitalik's post on quadratic arithmetic programs](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
 - [Comparing General Purpose zk-SNARKs](https://medium.com/coinmonks/comparing-general-purpose-zk-snarks-51ce124c60bd)
+
+### Examples with code:
+- [Dark forest's intro + circuits PARRT 1](https://blog.zkga.me/intro-to-zksnarks)
+- [Dark forest's intro + circuits PARRT 2](https://blog.zkga.me/df-init-circuit)
 
 ## Aleo
 _ [Programmable Zero Knowledge with Aleo](https://www.youtube.com/watch?v=o08E4gx9TqA&t=1593)
