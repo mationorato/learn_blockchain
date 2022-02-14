@@ -40,10 +40,10 @@
 - [Circom tutorial](https://github.com/therealyingtong/roll_up_circom_tutorial)
 - [R1CS programing workshop](https://github.com/mir-protocol/r1cs-workshop/blob/master/workshop.pdf)
 
-## zk-SNARKs
+## ZK-SNARKs
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
 
-### advance topics:
+### Advanced topics:
 - [Vitalik's introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html)
 - [Vitalik's post on quadratic arithmetic programs](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
 - [Comparing General Purpose zk-SNARKs](https://medium.com/coinmonks/comparing-general-purpose-zk-snarks-51ce124c60bd)
