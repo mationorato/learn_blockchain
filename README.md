@@ -37,7 +37,7 @@
 - [Intro to zero knowledge proofs](https://www.youtube.com/watch?v=3NL0ThdvWMU)
 
 ## R1CS/Circuits
-- [Circom tutorial] https://github.com/therealyingtong/roll_up_circom_tutorial
+- [Circom tutorial](https://github.com/therealyingtong/roll_up_circom_tutorial)
 - [R1CS programing workshop](https://github.com/mir-protocol/r1cs-workshop/blob/master/workshop.pdf)
 
 ## zk-SNARKs
