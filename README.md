@@ -53,6 +53,6 @@
 - [Dark forest's intro + circuits PARRT 2](https://blog.zkga.me/df-init-circuit)
 
 ## Aleo
-_ [Programmable Zero Knowledge with Aleo](https://www.youtube.com/watch?v=o08E4gx9TqA&t=1593)
+- [Programmable Zero Knowledge with Aleo](https://www.youtube.com/watch?v=o08E4gx9TqA&t=1593)
 - [Developer's starting guide](https://developer.aleo.org/aleo/getting_started/overview/)
 - [Leo Playground](https://play.leo-lang.org/)
