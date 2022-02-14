@@ -30,3 +30,23 @@
 
 ## MEV
 - [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234)
+
+# Learn Zero-knowledge
+
+## Basics
+- [Intro to zero knowledge proofs](https://www.youtube.com/watch?v=3NL0ThdvWMU)
+
+## R1CS/Circuits
+- [Circom tutorial] https://github.com/therealyingtong/roll_up_circom_tutorial
+- [R1CS programing workshop](https://github.com/mir-protocol/r1cs-workshop/blob/master/workshop.pdf)
+
+## zk-SNARKs
+- [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
+- [zkSNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
+- [Vitalik's post on quadratic arithmetic programs](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
+- [Comparing General Purpose zk-SNARKs](https://medium.com/coinmonks/comparing-general-purpose-zk-snarks-51ce124c60bd)
+
+## Aleo
+_ [Programmable Zero Knowledge with Aleo](https://www.youtube.com/watch?v=o08E4gx9TqA&t=1593)
+- [Developer's starting guide](https://developer.aleo.org/aleo/getting_started/overview/)
+- [Leo Playground](https://play.leo-lang.org/)
